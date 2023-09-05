@@ -1,0 +1,14 @@
+{
+  "name": "palindromechecker",
+  "version": "1.0.0",
+  "description": "a technical test to create a method that checks for palindromes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lee Richmond",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
